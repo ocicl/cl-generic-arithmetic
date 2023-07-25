@@ -1,0 +1,10 @@
+* cl-generic-arithmetic
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-generic-arithmetic.git   |
+| commit  | 3aad805  |
+| systems | cl-generic-arithmetic |
+|---------+-------------------------------------------|
+
