@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/stylewarning/cl-generic-arithmetic.git   |
-| commit  | 3aad805  |
+| commit  | b9b85eb  |
 | systems | cl-generic-arithmetic |
 |---------+-------------------------------------------|
 
